@@ -1,1 +1,2 @@
-test
+- Added Cloudflare and Adguard dns providers
+- Fixed SB icons
