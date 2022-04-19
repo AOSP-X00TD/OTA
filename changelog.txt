@@ -1,2 +1,2 @@
-- Added Cloudflare and Adguard dns providers
-- Fixed SB icons
+- Source upstream
+- Fixed vulkan props
