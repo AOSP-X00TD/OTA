@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1650784161,
+      "filename": "lineage-19.1-20220424-X00TD-signed.zip",
+      "id": "a6354fbbdec20469eb2e6c1773dd1af2",
+      "romtype": "UNOFFICIAL",
+      "size": 1107817995,
+      "url": "https://ota.hackneyed.workers.dev/0:/OTA/",
+      "version": "18.1"
+    }
+  ]
+}

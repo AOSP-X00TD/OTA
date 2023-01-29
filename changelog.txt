@@ -1,10 +1,2 @@
-- Updated Wifi PowerSaveOffload
-- Disabled RX wakelock feature
-- Relax WiFi re-association RSSI thresholds
-- Disabled NearbyMessagingService
-- Disabled DiscoveryService
-- Enabled skia reduceOpsTaskSplitting
-- Use threaded GLES render engine
-- Allow seamless Doze state transitions
-- Imported volume curves from stock
-- Audio config changes
+Initial push
+More changes coming soon
