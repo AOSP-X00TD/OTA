@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1650784161,
-      "filename": "lineage-19.1-20220424-X00TD-signed.zip",
-      "id": "a6354fbbdec20469eb2e6c1773dd1af2",
+      "datetime": 1675347541,
+      "filename": "lineage_karate-ota_update-2023020214.zip",
+      "id": "126bac011159c70da20d8bca159c3148",
       "romtype": "UNOFFICIAL",
-      "size": 1107817995,
+      "size": 871779694,
       "url": "https://ota.hackneyed.workers.dev/0:/OTA/",
       "version": "18.1"
     }
