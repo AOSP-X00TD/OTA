@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1675489445,
-      "filename": "lineage_karate-ota_update-2023020405.zip",
-      "id": "aa7d76ab8dfff60c2920b3f0936a68e6",
+      "datetime": 1675495725,
+      "filename": "lineage_karate-incremental-2023020405-2023020407.zip",
+      "id": "9afcca70700e238ecb74e62316eca78e",
       "romtype": "UNOFFICIAL",
-      "size": 872559561,
-      "url": "https://ota.hackneyed.workers.dev/0:/OTA/lineage_karate-ota_update-2023020405.zip",
+      "size": 9708130,
+      "url": "https://ota.hackneyed.workers.dev/0:/OTA/lineage_karate-incremental-2023020405-2023020407.zip",
       "version": "18.1"
     }
   ]
