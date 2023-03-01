@@ -1,1 +1,2 @@
-Bumped to February security patch
+Enabled speed-profiles support
+Specify the size of ZRAM in percent
