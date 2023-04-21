@@ -1,3 +1,1 @@
-Enabled speed-profiles support
-Specify the size of ZRAM in percent
-Updated to March 2023 security patch
+Test build. Dont flash
