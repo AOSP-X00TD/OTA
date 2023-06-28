@@ -1,3 +1,2 @@
-Enabled speed-profiles support
-Specify the size of ZRAM in percent
-Updated to March 2023 security patch
+Fixed soundpicker crash
+Updated to May 2023 security patch
