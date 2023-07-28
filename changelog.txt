@@ -1,2 +1,3 @@
-Fixed soundpicker crash
-Updated to May 2023 security patch
+Fixed Some known Issues
+Updated to JUly 2023 security patch
+Updated UI/UX smoothness
